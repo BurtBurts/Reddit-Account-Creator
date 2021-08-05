@@ -1,6 +1,0 @@
-selenium
-passgen
-requests
-bs4
-lxml
-webdriver

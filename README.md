@@ -16,7 +16,9 @@ There is two versions of this script:
 - Install the requirements using CMD and pip (example: pip install requests, pip install passgen) - there's a requirements.txt file.
 - Read the PDF file on how to use the script, add your Anti-captcha code, and how to install the webdriver.
 ----------------------------------------------------------------------------------------------------------
-If you're using the 2nd version of the script, you have to add proxies as well. Get rotating proxies from Webshare.io's free trial. Duplicate it in the proxies file to match the number of usernames you've input. Clean the proxy_phrases.txt before you re-initiate the script.
+If you're using the 2nd version of the script, you have to add proxies as well. Get rotating proxies from Webshare.io's free trial. 
+Duplicate it in the proxies file to match the number of usernames you've input. Clean the proxy_phrases.txt before you re-initiate the script.
+
 ----------------------------------------------------------------------------------------------------------
 Donate BTC?
 1n5SP53tMdNbCmMXGmNeQKr8RZiFckXRS

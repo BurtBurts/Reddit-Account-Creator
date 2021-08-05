@@ -9,7 +9,7 @@ There is two versions of this script:
 # What you will need:
 - Python
 - Installing Selenium, Requests, and Webdriver
-- Anti-captcha subscription (http://getcaptchasolution.com/8bvof0gf0r)
+- Anti-captcha subscription (my affiliate link: http://getcaptchasolution.com/8bvof0gf0r)
 ----------------------------------------------------------------------------------------------------------
 # Steps:
 - Install Python.
